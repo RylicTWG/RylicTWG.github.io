@@ -1,0 +1,27 @@
+body {
+  background-color: #ece9e1;
+}
+h1 {
+  color: #55426d;
+  font-family: Helvetica, sans-serif;
+  font-size: 40px;
+  padding: 50px;
+  border: 5px solid #766855;
+}
+p {
+  color: #55426d;
+  font-family: Arial, sans-serif;
+}
+ul {
+  font-family: Arial, sans-serif;
+  border: 2px solid #766855;
+}
+p,
+ul {
+  margin: 10px;
+}
+h2 {
+  color: #55426d;
+  font-family: Helvetica, sans-serif;
+  font-size: 30px;
+}
