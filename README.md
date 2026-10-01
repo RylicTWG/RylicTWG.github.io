@@ -1,18 +1,13 @@
 # My Professional Repository
 
-This repository's purpose is to hold my personal website along as showcase my understanding of Github's version control system.
+This repository's purpose is to hold my weight loss project called _Cutting Weight_ and my "About Me" personal website.  
 
 
 
-In this repository, you will find a link to a website stating my goals for the current semester and my future career.
+In this repository, you will find a link to my weight loss project with month-by-month rundowns of the progress each month.  
+You will also find a link to my personal website (which includes my personal hobbies and interests) within this project.  
+Additional documentation on the weight loss project is available here: [Documentation](https://github.com/RylicTWG/rylictwg.github.io/tree/main/docs)  
 
-I've also included a list of my hobbies and interests.
+Thank you for checking out my repository.  
 
-I hope you enjoy the color palette I utilized.
-
-Thank you for checking out my repository.
-
-
-
-Link to website: [My Personal Website](https://rylictwg.github.io/)
-
+Link to website: [Cutting Weight](https://rylictwg.github.io/)  
