@@ -33,7 +33,7 @@ _The goal must be met before the end of the year._
 What does "done" look like? How will we know?  
 _I am done when I have lost 20 pounds from my starting weight._
 ## Budget  
-_$300/month spent on groceries x 4 months = $900_  
+_$300/month spent on groceries x 4 months = $1200_  
 ## Acceptance Criteria  
 Who needs to sign off, on what, and when?  
 _A digital body weight scale will verify my results before the year ends._
